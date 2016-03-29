@@ -20,7 +20,7 @@
   <compatibility>
     <ver>4.2</ver>
   </compatibility>
-  <comments>This is a new, undeveloped module</comments>
+  <comments>This is a new, undeveloped module in which the info.xml was modified</comments>
   <civix>
     <namespace>CRM/Firstextension</namespace>
   </civix>
