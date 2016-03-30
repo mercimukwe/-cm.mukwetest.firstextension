@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/contact</path>
+    <page_callback>CRM_Firstextension_Page_Contact</page_callback>
+    <title>Contacts Edited</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+  <item>
+    <path>civicrm/activities</path>
+    <page_callback>CRM_Firstextension_Form_ContactActivites</page_callback>
+    <title>ContactActivites</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>

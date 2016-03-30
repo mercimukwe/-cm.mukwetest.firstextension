@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <extension key="cm.mukwetest.firstextension" type="module">
   <file>firstextension</file>
-  <name>FIXME</name>
+  <name>Sample Contact Exttension</name>
   <description>FIXME</description>
   <license>AGPL-3.0</license>
   <maintainer>
