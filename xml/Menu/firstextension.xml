@@ -3,7 +3,7 @@
   <item>
     <path>civicrm/contact</path>
     <page_callback>CRM_Firstextension_Page_Contact</page_callback>
-    <title>Contacts Edited</title>
+    <title>Contacts</title>
     <access_arguments>access CiviCRM</access_arguments>
   </item>
   <item>
